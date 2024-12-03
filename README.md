@@ -1,3 +1,5 @@
+This book is referenced by the [xuyuji9000/books](https://github.com/xuyuji9000/books) repository.
+
 # Site Reliability Engineering
 
 Members of the SRE team explain how their engagement with the entire software lifecycle has enabled Google to build, deploy, monitor, and maintain some of the largest software systems in the world.
